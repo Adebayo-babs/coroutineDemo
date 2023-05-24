@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coroutineDemo</string>
+    <string name="count">COUNT</string>
+    <string name="download">DOWNLOAD</string>
+</resources>
